@@ -34,15 +34,7 @@ knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FAL
 <!-- ======================================================================= -->
 [^1]: 19080226, [Github Repo](https://github.com/Dearshen/vize3.git)
 
-# Vize Hakkında Önemli Bilgiler
 
-\colorbox{BurntOrange}{GITHUB REPO BAĞLANTINIZI BU DOSYANIN 35. SATIRINA YAZINIZ!}
-
-**Proje önerisi gönderimi, Github repo linki ile birlikte ekampus sistemine bir zip dosyası yüklenerek yapılacaktır. Sisteme zip dosyası yüklemezseniz ve Github repo linki vermezseniz ara sınav ve final sınavlarına girmemiş sayılırsınız.**
-
-**Proje klasörünüzü sıkıştırdıktan sonra (`YourStudentID.zip` dosyası) 16 Nisan 2023 23:59'a kadar *ekampus.ankara.edu.tr* adresine yüklemeniz gerekmektedir.**
-
-\colorbox{WildStrawberry}{Daha fazla bilgi için proje klasöründeki README.md dosyasını okuyunuz.}
 
 # Giriş
 Türkiye, son yıllarda önemli bir iç göç hareketi yaşamaktadır. Özellikle ekonomik sebepler, işsizlik, doğal afetler ve terör olayları gibi faktörler nedeniyle insanlar, doğdukları yerlerden farklı şehirlere veya bölgelere göç etmektedirler. İç göç, Türkiye'nin ekonomik, sosyal ve kültürel yapısını etkilemektedir. Göç edenler, bulundukları yerlerde yeni iş fırsatları aramakta, farklı bir kültürel ortamla karşılaşmakta ve yeni sosyal ilişkiler kurmaktadırlar. Bu nedenle, Türkiye'nin iç göç hareketleri, ülkenin ekonomik ve sosyal kalkınması üzerinde önemli bir etkiye sahiptir. Türkiye İstatistik Kurumu'nun 2021 verilerine göre, Türkiye'de nüfusun %14'ü, yani yaklaşık 12 milyon kişi başka bir il veya ilçeye göç etmiştir. En çok göç veren iller arasında İstanbul, İzmir, Ankara ve Bursa gibi büyük şehirler bulunmaktadır. 
