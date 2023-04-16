@@ -1,0 +1,67 @@
+---
+title: "Türkiye'de İç Göç"
+author: 
+  - Baran Kılıç[^1]
+bibliography: ../bibliography/biblio.bib
+csl: ../csl/apa-tr.csl
+header-includes:
+  - \usepackage{polyglossia}
+  - \setmainlanguage{turkish}
+  - \usepackage{booktabs}
+  - \usepackage{caption} 
+  - \captionsetup[table]{skip=10pt}
+output:
+  bookdown::pdf_document2:
+    fig_caption: yes
+    fig_height: 3
+    fig_width: 4
+    keep_tex: no
+    latex_engine: xelatex
+    number_sections: yes
+    toc: no
+geometry: margin=1in
+link-citations: yes
+urlcolor: blue
+fontsize: 12pt
+biblio-style: apalike
+---
+
+
+<!-- ======================================================================= -->
+<!-- ============================== NOTLAR ================================= -->
+<!-- ======================================================================= -->
+[^1]: 19080226, [Github Repo](https://github.com/Dearshen/vize3.git)
+
+# Vize Hakkında Önemli Bilgiler
+
+\colorbox{BurntOrange}{GITHUB REPO BAĞLANTINIZI BU DOSYANIN 35. SATIRINA YAZINIZ!}
+
+**Proje önerisi gönderimi, Github repo linki ile birlikte ekampus sistemine bir zip dosyası yüklenerek yapılacaktır. Sisteme zip dosyası yüklemezseniz ve Github repo linki vermezseniz ara sınav ve final sınavlarına girmemiş sayılırsınız.**
+
+**Proje klasörünüzü sıkıştırdıktan sonra (`YourStudentID.zip` dosyası) 16 Nisan 2023 23:59'a kadar *ekampus.ankara.edu.tr* adresine yüklemeniz gerekmektedir.**
+
+\colorbox{WildStrawberry}{Daha fazla bilgi için proje klasöründeki README.md dosyasını okuyunuz.}
+
+# Giriş
+Türkiye, son yıllarda önemli bir iç göç hareketi yaşamaktadır. Özellikle ekonomik sebepler, işsizlik, doğal afetler ve terör olayları gibi faktörler nedeniyle insanlar, doğdukları yerlerden farklı şehirlere veya bölgelere göç etmektedirler. İç göç, Türkiye'nin ekonomik, sosyal ve kültürel yapısını etkilemektedir. Göç edenler, bulundukları yerlerde yeni iş fırsatları aramakta, farklı bir kültürel ortamla karşılaşmakta ve yeni sosyal ilişkiler kurmaktadırlar. Bu nedenle, Türkiye'nin iç göç hareketleri, ülkenin ekonomik ve sosyal kalkınması üzerinde önemli bir etkiye sahiptir. Türkiye İstatistik Kurumu'nun 2021 verilerine göre, Türkiye'de nüfusun %14'ü, yani yaklaşık 12 milyon kişi başka bir il veya ilçeye göç etmiştir. En çok göç veren iller arasında İstanbul, İzmir, Ankara ve Bursa gibi büyük şehirler bulunmaktadır. 
+
+
+## Çalışmanın Amacı
+projenin çalışma amacı, iç göç hareketinin nedenlerini ve sonuçlarını anlamak, göç eden insanların ihtiyaçlarını belirlemek ve göç edenlerin yerleştiği bölgelerdeki sosyal, ekonomik ve kültürel yapıyı değerlendirmektir.
+
+Bu projenin çalışmaları, göç edenlerin yeni yerleşim yerlerinde karşılaştığı zorlukları ve bu zorlukların üstesinden gelmek için gerekli olan politika ve stratejileri belirlemeyi amaçlamaktadır. Ayrıca, iç göç hareketinin bölgesel kalkınma üzerindeki etkisini değerlendirmek ve göçün neden olduğu sosyal, ekonomik ve kültürel değişimleri incelemek de projenin hedefleri arasındadır.
+
+## Literatür 
+1-Türkiye'deki iç göçün nedenleri araştırılmış ve göçün ekonomik, sosyal ve kültürel sonuçları ele alınmıştır.
+
+2-iç göçün yarattığı sorunlar detaylı bir şekilde incelenmiştir. Makalede, göçmenlerin işsizlik, barınma, eğitim ve sağlık gibi konulardaki sorunları ele alınmış ve bu sorunların nasıl çözülebileceği üzerinde durulmuştur.
+
+3-yerel yönetimlerin göçmenlerin yerleşim yerlerindeki ihtiyaçlarına yönelik politikaları ve hizmetleri nasıl geliştirdiği ele alınmıştır.
+
+4-şehirleşme sürecinin iç göçü nasıl etkilediği ve iç göçün şehirlerdeki sosyal ve ekonomik yapıya etkisi ele alınmıştır.
+
+
+\newpage
+# Kaynakça {#references}
+<div id="refs"></div>
+
